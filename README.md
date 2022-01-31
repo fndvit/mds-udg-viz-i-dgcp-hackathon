@@ -26,7 +26,7 @@ The overall project will be part of a series which includes [this interactive](h
 
 Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is NASA's sea surface temperature product, which shows the temperature of the top millimeter of the ocean's surface. Scientists monitor sea surface temperature because the ocean's warmth influences Earth's climate system in many different ways. The Moderate Resolution Imaging Spectroradiometer (MODIS) instruments aboard NASA's Terra and Aqua satellites collect global measurements of sea surface temperature accurate to within half a degree Celsius.
 
-Here're [more detailed explanations](https://neo.gsfc.nasa.gov/view.php?datasetId=MYD28M).
+Here're [more detailed explanations about the data](https://neo.gsfc.nasa.gov/view.php?datasetId=MYD28M).
 
 ### About the data
 
@@ -72,7 +72,9 @@ As a starting point, you could investigate this similar product: the [land surfa
 
 **Question:** How do we find any statistically significant clustering in the spatial patterns of this data?
 
-**Context:** You don't have the sea surface temperature anomalies yet —team gerbils 🐹 is working on that— but both the [Land Surface Temperature Anomaly page](https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_LSTAD_M) and the original [Sea Surface Temperature Anomaly](https://neo.gsfc.nasa.gov/view.php?datasetId=AMSRE_SSTAn_M) can serve as starting points. These clusters may serve multiple purposes, but the main is to serve as a base for a researcher to report, explain and collect climate change impacts in the resulting areas.
+**Context:** You don't have the sea surface temperature anomalies yet —team gerbils 🐹 is working on that— but both the [Land Surface Temperature Anomaly page](https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_LSTAD_M) and the original [Sea Surface Temperature Anomaly](https://neo.gsfc.nasa.gov/view.php?datasetId=AMSRE_SSTAn_M) can serve as starting points.
+
+These clusters may serve multiple purposes, but the main is to serve as a base for a researcher to report, explain and collect climate change impacts in the resulting areas.
 
 **Deliverables:**
 
@@ -84,9 +86,10 @@ As a starting point, you could investigate this similar product: the [land surfa
 
 **Question:** What descriptive/summary statistics can we calculate for each country and how can we display them?
 
-**Context:** The overall project is country-based —that is, there will be one page per country with climate change related measures for that country. But unlike.
+**Context:** The overall project is country-based —that is, there will be one page per country with climate change related measures for that country.
 
-As a starting point We've left a `shapefile` with EEZ and international waters in [`./data/additional/Intersect_EEZ_IHO_v4_2020`](data/additional/Intersect_EEZ_IHO_v4_2020). 
+There's a but there ... Unlike land-based measurements, that you can 'clip' to the country borders, sea is more fluid —pun intended. As a starting point we've left a `shapefile` with EEZ and international waters in [`./data/additional/Intersect_EEZ_IHO_v4_2020`](data/additional/Intersect_EEZ_IHO_v4_2020).
+
 Team koalas 🐨 is working on a way to identify significant clusters, you should check with them and consider how to integrate that into the display.
 
 **Deliverables:**
