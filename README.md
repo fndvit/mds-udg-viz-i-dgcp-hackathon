@@ -111,9 +111,9 @@ These clusters may serve multiple purposes, but the main is to function as a bas
 
 **Deliverables:**
 
-* An algorithm to identify hotspots/coldspots from team gerbils 🐹 input data
+* An algorithm to identify hotspots/coldspots (significant geographic clusters) from team gerbils 🐹 input data
 * Possible uses for the feature
-* Wireframes of an interface to 
+* Wireframes of an interface to display the hotspots for a researcher
 
 ### 🎨 Country summaries
 
@@ -162,5 +162,5 @@ Team koalas 🐨 is working on a way to identify significant clusters, you shoul
 
 As we all know the [professional jury and the popular vote don't always match](https://www.youtube.com/watch?v=4uGN9efcACw), so we're offering two awards: you all decide one via an open vote, we decide the other —which may or may not be the same, and we won't know until we reveal them simultaneously.
 
-* 🏆 **Popular vote**
-* 🏆 **Jury fav**
+* 🏆 **Popular vote:** [Data sketches: A journey of imagination, exploration, and beautiful data visualizations](https://www.datasketch.es/) by Nadieh Bremer and Shirley Wu
+* 🏆 **Jury fav:** [Data Feminism (Strong Ideas)](https://datafeminism.io/) by Catherine D'Ignazio and Lauren F. Klein
