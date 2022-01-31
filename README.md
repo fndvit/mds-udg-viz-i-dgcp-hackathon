@@ -22,11 +22,13 @@ The overall project will be part of a series which includes [this interactive](h
 
 [![Screenshot of the interactive](preview-climate-change.png)](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-action-note/state-of-climate.html "Climate Action Note")
 
-## The sea surface temperature raw data and some context
+## OUR FOCUS: Sea surface temperature
 
-NASA's sea surface temperature product shows the temperature of the top millimeter of the ocean's surface. Scientists monitor sea surface temperature because the ocean's warmth influences Earth's climate system in many different ways. The Moderate Resolution Imaging Spectroradiometer (MODIS) instruments aboard NASA's Terra and Aqua satellites collect global measurements of sea surface temperature accurate to within half a degree Celsius.
+Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is NASA's sea surface temperature product, which shows the temperature of the top millimeter of the ocean's surface. Scientists monitor sea surface temperature because the ocean's warmth influences Earth's climate system in many different ways. The Moderate Resolution Imaging Spectroradiometer (MODIS) instruments aboard NASA's Terra and Aqua satellites collect global measurements of sea surface temperature accurate to within half a degree Celsius.
 
 Here're [more detailed explanations](https://neo.gsfc.nasa.gov/view.php?datasetId=MYD28M).
+
+### About the data
 
 You can find the data starting Jan. 2012 as `gzipped CSVs` in [`./data/raw/SST-CSVs`](data/raw/SST-CSVs)
 
