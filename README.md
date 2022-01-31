@@ -1,12 +1,35 @@
+![Logos](logos.png)
+
 # Hackathon Infoviz and Project Management
 
 ![License](https://img.shields.io/github/license/fndvit/mds-udg-viz-i-dgcp-hackathon?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/fndvit/mds-udg-viz-i-dgcp-hackathon?style=for-the-badge)
 
-TK TK Writing an intro here with the overview TK TK
+This hackathon is a shared event between the Information Visualization and Data Science Project Management subjects with support from the [ViT Foundation](https://www.fundaciovit.org/).
+
+**What we want to solve**
+We want to propose a new climate-change metric, sea surface temperature anomalies, based on the sea surface temperature data, and use it as part of a country-by-country display of climate change statistics —the display will paint a picture of how we're affecting the climate, what's happening to it, and how we're addressing the climate emergency.
+
+**Specifically ...**
+
+* How to calculate the metric every time new monthly data rolls in
+* How to identify interesting 'hotspots' (and/or 'coldspots')
+* How to break into countries
+* What to say about it and how to display it
+
+**What you will learn**
+
+* To wear different hats in a project: data analyst, data storyteller, project manager, researcher ...
+* To collaborate with new teams and across teams —everyone has something that other teams need and needs something from other teams.
+* To set realistic, yet aspirational expectations.
+* To set and follow best practices for technical collaborations
+
+**You could try**
+
+*We suggest you switch project management tasks around. For example, one of you does pre-hackathon tasks, one handles monitoring tasks in the morning of the hackathon, one handles the afternoon. The remaining team mate can play the product owner presenting to stakeholders at the end of the day.*
 
 ## Project background
 
-This project is part of a country by country view of climate change metrics. Among those metrics *(depending on data availability and relevance for the country)* are:
+This project is part of a country-by-country exploration of climate change metrics. Among those metrics we'll have:
 
 * GHG emissions: latest, per capita, and trend since 1970
 * Latest land surface temperature anomalies
@@ -18,7 +41,7 @@ This project is part of a country by country view of climate change metrics. Amo
 > **⚠ IMPORTANT NOTE:**  
 > **Again, our focus for this hackathon** is *ONLY* the **'Latest sea surface temperature anomalies'** metric!
 
-The overall project will be part of a series which includes [this interactive](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-action-note/state-of-climate.html):
+Still in ideation, the overall project will be the next phase of a series which includes [this interactive](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-action-note/state-of-climate.html):
 
 [![Screenshot of the interactive](preview-climate-change.png)](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-action-note/state-of-climate.html "Climate Action Note")
 
@@ -47,13 +70,13 @@ The data looks like this projected using Equal Earth projection:
 
 ![Sea surface temperature](https://interactives.unenvironment.org/explore-topics/climate-action/what-we-do/climate-action-note/ocean.jpg)
 
-## Scenarios and objectives
+## Teams and objectives
 
 ### 🧐 From observations to anomalies
 
 |**Team name:** gerbils 🐹|
 |:------|
-|**Members:** Cédric, Esther, Marc Pérez, Àlex|
+|**Members:** Cédric, Esther, Marc Pérez, Àlex, Àngel|
 
 **Question:** How can we create sea surface temperature anomaly maps off the sea surface temperature data?
 
@@ -61,6 +84,8 @@ The data looks like this projected using Equal Earth projection:
 
 As a starting point, you could investigate this similar product: the [land surface temperature anomaly page](https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_LSTAD_M)— in the product page it says:
 > These maps show where Earth’s surface was warmer or cooler in the daytime than the average temperatures for the same week or month from 2001-2010. So, a land surface temperature anomaly map for May 2002 shows how that month’s average temperature was different from the average temperature for all Mays between 2001 and 2010.
+
+If you map it, team badgers 🦡 may have some thoughts about the display.
 
 **Deliverables:**
 
@@ -74,7 +99,7 @@ As a starting point, you could investigate this similar product: the [land surfa
 
 **Context:** You don't have the actual sea surface temperature anomalies yet —team gerbils 🐹 is working on that— but both the [Land Surface Temperature Anomaly page](https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_LSTAD_M) and the original [Sea Surface Temperature Anomaly](https://neo.gsfc.nasa.gov/view.php?datasetId=AMSRE_SSTAn_M) can serve as starting points.
 
-These clusters may serve multiple purposes, but the main is to serve as a base for a researcher to report, explain and collect climate change impacts in the resulting areas.
+These clusters may serve multiple purposes, but the main is to function as a base for a researcher to report, explain and collect climate change impacts in the resulting areas.
 
 **Deliverables:**
 
@@ -101,7 +126,7 @@ Team koalas 🐨 is working on a way to identify significant clusters, you shoul
 * 👩‍💻 **09:30** Start of work day!
 * 🙋‍♀️ **13:15** Short standup
 * 🍱 **13:30** Lunch
-* 👩‍💻 **14:30** Back to work, switch PMs
+* 👩‍💻 **14:30** Back to work
 * 🧑‍🏫 **19:00** Wrap-up presentation < 6 slides 😜: About 5-10 minutes per team.
   * What was achieved?
   * What was helpful?
