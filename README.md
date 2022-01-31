@@ -1,6 +1,6 @@
 <img src="logos.png" width="360">
 
-# Hackathon Infoviz and Project Management
+# Màster in Data Science UdG: Hackathon Infoviz and Project Management
 
 ![License](https://img.shields.io/github/license/fndvit/mds-udg-viz-i-dgcp-hackathon?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/fndvit/mds-udg-viz-i-dgcp-hackathon?style=for-the-badge)
 
