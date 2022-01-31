@@ -6,26 +6,30 @@ This project is part of a country by country view of climate change metrics. Amo
 
 * GHG emissions: latest, per capita, and trend since 1970
 * Latest land surface temperature anomalies
-* Latest sea surface temperature *(where relevant)*
+* Latest sea surface temperature *(where relevant)* 👈 **OUR FOCUS**
 * Climate risk index
 * Detailed net-zero targets *(regional and city-level data where available)*
 * And about half a dozen more
 
 > **⚠ IMPORTANT NOTE:**  
-> **Our focus for this hackathon** is *ONLY* the **'Latest sea surface temperature'** metric!
+> **Again, our focus for this hackathon** is *ONLY* the **'Latest sea surface temperature'** metric!
 
 The overall project will be part of a series which includes this interactive:
+
 [![Screenshot of the interactive](preview-climate-change.png)](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-action-note/state-of-climate.html "Climate Action Note")
 
-## Our data: Sea surface temperature
+## Our raw data: Sea surface temperature
 
 NASA's sea surface temperature product shows the temperature of the top millimeter of the ocean's surface. Scientists monitor sea surface temperature because the ocean's warmth influences Earth's climate system in many different ways. The Moderate Resolution Imaging Spectroradiometer (MODIS) instruments aboard NASA's Terra and Aqua satellites collect global measurements of sea surface temperature accurate to within half a degree Celsius.
 
 Here're [more detailed explanations](https://neo.gsfc.nasa.gov/view.php?datasetId=MYD28M)
 
-You have the data as TK TK in [`./data/raw`](data/raw)
-You can find it in different formats here:
+You can find the data as `gzipped CSVs` in [`./data/raw`](data/raw)
 
+And in different formats here:
+
+* As [`PNGs`](https://neo.gsfc.nasa.gov/archive/rgb/MYD28M/)
+* As [`GEOTIFFs`](https://neo.gsfc.nasa.gov/archive/geotiff/MYD28M/)
 
 ## Overall objective
 
@@ -33,18 +37,28 @@ You can find it in different formats here:
 
 ### Ocean temperature anomalies
 
-Team name: gerbils 🐹
+|**Team name:** gerbils 🐹|
+|------|
+|**Members:** Cédric, Esther, Marc Pérez, Àlex|
+
+
 
 ### Areas of interest
 
-Team name: koalas 🐨
+|**Team name:** koalas 🐨|
+|------|
+|**Members:** Andrea, Daniel, Marc Rojo, Pau|
+
 How do we find any statistically significant clustering in the spatial patterns of these data?
 
 You don't have the sea surface temperature anomalies yet —team gerbils is working on that. But you have two datasets that can help you in the meantime.
 
 ### TK TK
 
-Team name: badgers 🦡
+|**Team name:** badgers 🦡|
+|------|
+|**Members:** Sergi, Jonah, Victor, Guillem|
+
 
 ## Day-of schedule
 
@@ -63,14 +77,15 @@ Team name: badgers 🦡
 
 *We'll come to you, moving from group to group, and we'll be available for questions and solving blocks.*
 
-## Policy for Collaboration
+## Collaboration recommendations
 
-Follow the Branch Per Feature model: one feature, one branch.
-Prepend each branch with your team name. For example if you're commiting part of your work cleaning up the data, you would push it to a `gerbils--data-cleaning` branch.
+* Follow the Branch Per Feature model: one feature, one branch.
+* Prepend each branch with your team name. For example if you're commiting part of your work cleaning up the data, you would push it to a `gerbils--data-cleaning` branch.
+* A nice pattern for commit messages is `type: subject` as in `refactor: use map instead of for loop`.
 
 ## The awards
 
-As we all know the [professional jury and the popular vote don't always match](https://www.youtube.com/watch?v=4uGN9efcACw), so we're offering two awards: you decide one via an open vote, we decide another one —which may or may not be the same.
+As we all know the [professional jury and the popular vote don't always match](https://www.youtube.com/watch?v=4uGN9efcACw), so we're offering two awards: you all decide one via an open vote, we decide the other —which may or may not be the same, and we won't know until we reveal them simultaneously.
 
-🏆 Popular vote
-🏆 Jury fav
+🏆 **Popular vote**
+🏆 **Jury fav**
