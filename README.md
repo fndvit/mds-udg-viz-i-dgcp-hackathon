@@ -88,7 +88,7 @@ These clusters may serve multiple purposes, but the main is to serve as a base f
 
 **Context:** The overall project is country-based —that is, there will be one page per country with climate change related measures for that country.
 
-There's a but there ... Unlike land-based measurements, that you can 'clip' to the country borders, sea is more fluid —pun intended. As a starting point we've left a `shapefile` with EEZ and international waters in [`./data/additional/Intersect_EEZ_IHO_v4_2020`](data/additional/Intersect_EEZ_IHO_v4_2020).
+There's a but there ... Unlike land-based variables that you can 'clip' to the country borders, sea is more fluid —pun intended 😎. As a starting point we've left a `shapefile` with EEZ and international waters in [`./data/additional/Intersect_EEZ_IHO_v4_2020`](data/additional/Intersect_EEZ_IHO_v4_2020).
 
 Team koalas 🐨 is working on a way to identify significant clusters, you should check with them and consider how to integrate that into the display.
 
