@@ -1,4 +1,4 @@
-![Logos](logos.png)
+<img src="logos.png" width="300">
 
 # Hackathon Infoviz and Project Management
 
