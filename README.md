@@ -164,3 +164,5 @@ As we all know the [professional jury and the popular vote don't always match](h
 
 * 🏆 **Popular vote:** [Data sketches: A journey of imagination, exploration, and beautiful data visualizations](https://www.datasketch.es/) by Nadieh Bremer and Shirley Wu
 * 🏆 **Jury fav:** [Data Feminism (Strong Ideas)](https://datafeminism.io/) by Catherine D'Ignazio and Lauren F. Klein
+
+![Book covers](awards.jpeg)
