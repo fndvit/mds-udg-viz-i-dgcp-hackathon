@@ -1,4 +1,4 @@
-<img src="logos.png" width="420">
+<img src="logos.png" width="360">
 
 # Hackathon Infoviz and Project Management
 
