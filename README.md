@@ -14,7 +14,7 @@ We want to propose a new climate-change metric, sea surface temperature anomalie
 
 * How to calculate the metric every time new monthly data rolls in
 * How to identify interesting 'hotspots' (and/or 'coldspots')
-* How to break into countries
+* How to break the data by country
 * What to say about it and how to display it
 
 **What you will learn:**
