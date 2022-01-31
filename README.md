@@ -72,7 +72,7 @@ As a starting point, you could investigate this similar product: the [land surfa
 
 **Question:** How do we find any statistically significant clustering in the spatial patterns of this data?
 
-**Context:** You don't have the sea surface temperature anomalies yet —team gerbils 🐹 is working on that— but both the [Land Surface Temperature Anomaly page](https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_LSTAD_M) and the original [Sea Surface Temperature Anomaly](https://neo.gsfc.nasa.gov/view.php?datasetId=AMSRE_SSTAn_M) can serve as starting points.
+**Context:** You don't have the actual sea surface temperature anomalies yet —team gerbils 🐹 is working on that— but both the [Land Surface Temperature Anomaly page](https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_LSTAD_M) and the original [Sea Surface Temperature Anomaly](https://neo.gsfc.nasa.gov/view.php?datasetId=AMSRE_SSTAn_M) can serve as starting points.
 
 These clusters may serve multiple purposes, but the main is to serve as a base for a researcher to report, explain and collect climate change impacts in the resulting areas.
 
