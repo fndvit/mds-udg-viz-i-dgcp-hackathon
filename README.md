@@ -92,7 +92,7 @@ The data looks like this projected using Equal Earth projection:
 
 |**Team name:** gerbils 🐹|
 |:------|
-|**Members:** Cédric, Esther, Marc Pérez, Àlex, Àngel|
+|**Members:** Cédric, Esther, Victor, Àngel|
 
 **Question:** How can we create sea surface temperature anomaly maps off the sea surface temperature data?
 
@@ -113,7 +113,7 @@ If you map it, team badgers 🦡 may have some thoughts about the display.
 
 |**Team name:** koalas 🐨|
 |:------|
-|**Members:** Andrea, Daniel, Marc Rojo, Pau|
+|**Members:** Andrea, Daniel, Marc Rojo, Pau, Marc Pérez|
 
 **Question:** How do we find any statistically significant clustering in the spatial patterns of the anomalies?
 
@@ -131,7 +131,7 @@ These clusters may serve multiple purposes, but the main is to function as a bas
 
 |**Team name:** badgers 🦡|
 |:------|
-|**Members:** Sergi, Jonah, Victor, Guillem|
+|**Members:** Sergi, Jonah, Àlex, Guillem|
 
 **Question:** What descriptive/summary statistics can we calculate for each country and how can we display them?
 
