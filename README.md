@@ -30,13 +30,13 @@ We want to propose a **new climate change metric**, **sea surface temperature an
 
 **📅 Pre-hackathon stuff:**
 
-> **⚠ IMPORTANT NOTE:**  
-> The entire group will collaborate on the same repo, so read the [Collaboration recommendations](#collaboration-recommendations).
-
 * Read this repo in detail
 * Meet to discuss and distribute roles
 * Decide on the communication channels, management and documentation tools
 * Set up your computer if you need to download or install any software —don't do it the day of the hackathon, please!
+
+> **⚠ IMPORTANT NOTE:**  
+> The entire group will collaborate on the same repo, so read the [Collaboration recommendations](#collaboration-recommendations).
 
 ## Project background
 
