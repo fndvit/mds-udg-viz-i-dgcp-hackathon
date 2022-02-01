@@ -196,6 +196,6 @@ The hackathon will count for **15% of the final mark for the subject**. (The fin
 
 For the **Information Visualization** subject:
 
-* All attending students in the wining groups get +1 (if the popular vote coincides with the jury fav they get +2)
+* All attending students in the winning groups get +1 (if the popular vote coincides with the jury fav they get +2)
 * All other attending students get +0.4 for their participation.
 * We will take into account the creativity and how well the visualization displays the results.
