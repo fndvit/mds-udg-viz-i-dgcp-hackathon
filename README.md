@@ -23,6 +23,8 @@ We want to propose a **new climate change metric**, **sea surface temperature an
 * To collaborate with new teams and across teams —everyone has something that other teams need and needs something from other teams.
 * To set realistic, yet aspirational expectations.
 * To set and follow best practices for technical collaborations.
+* To process, analyze and visualize geospatial data.
+* To present results to stakeholders.
 
 **✌️ You could try:**
 
@@ -52,7 +54,7 @@ This project is part of a country-by-country exploration of climate change metri
 > **⚠ IMPORTANT NOTE:**  
 > **Again, our focus for this hackathon** is *ONLY* the **'Latest sea surface temperature anomalies'** metric!
 
-Still in ideation, the overall project will be the next phase of a series which includes [this interactive](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-action-note/state-of-climate.html):
+Still in ideation, the overall project could become the next phase of a series which includes [this interactive](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-action-note/state-of-climate.html):
 
 [![Screenshot of the interactive](preview-climate-change.png)](https://www.unep.org/explore-topics/climate-action/what-we-do/climate-action-note/state-of-climate.html "Climate Action Note")
 
@@ -104,7 +106,7 @@ If you map it, team badgers 🦡 may have some thoughts about the display.
 **Deliverables:**
 
 * An algorithm to transform new SST data into SST anomalies data
-* A proposal for an automated pipeline
+* A proposal for an automated pipeline to retrieve new data, transform it, and output the anomalies map/data
 * A map showing the latest SST data that follows team badgers 🦡 design
 
 ### 🤔 Areas of interest
