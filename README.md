@@ -151,13 +151,15 @@ Team koalas 🐨 is working on a way to identify significant clusters, you shoul
 
 The Hackathon takes place in the P-IV building, EPS UdG on February 12, 2022.
 
+We will provide breakfast, lunch, snacks, coffee ...
+
 * 👋 **09:00** Welcome, reminder of logistics like working rooms, lunch, drinks, communication channels ...
-* 🙋‍♀️ **09:15** Standup meeting with us. Objectives, processes, what you want to achieve in the hackathon and any questions.
+* 🙋‍♀️ **09:15** Standup meeting. Objectives, processes, what you want to achieve in the hackathon and any questions.
 * 👩‍💻 **09:30** Start of work day!
 * 🙋‍♀️ **13:15** Short standup
 * 🍱 **13:30** Lunch
 * 👩‍💻 **14:30** Back to work
-* 🧑‍🏫 **19:00** Wrap-up presentation < 6 slides 😜: About 5-10 minutes per team.
+* 🧑‍🏫 **19:00** Wrap-up presentation < 6 slides 😜: About 10 minutes per team, in English.
   * What was achieved?
   * What was helpful?
   * What’s left to do?
@@ -174,9 +176,26 @@ The Hackathon takes place in the P-IV building, EPS UdG on February 12, 2022.
 
 ## The awards
 
-As we all know the [professional jury and the popular vote don't always match](https://www.youtube.com/watch?v=4uGN9efcACw), so we're offering two awards: you all decide one via an open vote, we decide the other —which may or may not be the same, and we won't know until we reveal them simultaneously.
+As we all know the [professional jury and the popular vote don't always match](https://www.youtube.com/watch?v=4uGN9efcACw), so we're offering two awards: you all decide one via an open vote, we decide the other —which may or may not be the same, and we won't know until we reveal them simultaneously. There will be an international guest judge —hence the presentation must be in English.
 
 * 🏆 **Popular vote:** A copy of [Data sketches: A journey of imagination, exploration, and beautiful data visualizations](https://www.datasketch.es/) by Nadieh Bremer and Shirley Wu
 * 🏆 **Jury fav:** A copy of [Data Feminism (Strong Ideas)](https://datafeminism.io/) by Catherine D'Ignazio and Lauren F. Klein
 
 ![Book covers](awards.jpg)
+
+## Our evaluation criteria
+
+For the **Project Management** subject:
+
+* **35%:** Active participation and engagement with the given roles.
+* **15%:** Colleague evaluation within the teams. You'll judge your team mates engagement with their roles.
+* **30%:** Persuasiveness and confidence in the presentation of the results.
+* **20%:** Creativity, feasibility and accuracy of the deliverables.
+
+The hackathon will count for **15% of the final mark for the subject**. (The final mark for the subject is then 30% project management and ethics + 30% group project + 25% guest lectures + 15% hackathon)
+
+For the **Information Visualization** subject:
+
+* All attending students in the wining groups get +1 (if the popular vote coincides with the jury fav they get +2)
+* All other attending students get +0.4 for their participation.
+* We will take into account the creativity and how well the visualization displays the results.
