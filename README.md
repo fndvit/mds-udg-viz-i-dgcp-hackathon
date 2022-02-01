@@ -130,7 +130,7 @@ These clusters may serve multiple purposes, but the main is to function as a bas
 
 **Question:** What descriptive/summary statistics can we calculate for each country and how can we display them?
 
-**Context:** The overall project is country-based —that is, there will be one page per country with climate change related measures for that country.
+**Context:** The overall project is country-based —that is, there will be one page per country with climate change related measures for that country. Just like team koalas 🐨 you don't have the actual sea surface temperature anomalies yet but both the [Land Surface Temperature Anomaly page](https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_LSTAD_M) and the original [Sea Surface Temperature Anomaly](https://neo.gsfc.nasa.gov/view.php?datasetId=AMSRE_SSTAn_M)
 
 There's a but there ... Unlike land-based variables that you can 'clip' to the country borders, sea is more fluid —pun intended 😎. As a starting point we've left a `shapefile` with EEZ and international waters in [`./data/additional/Intersect_EEZ_IHO_v4_2020`](data/additional/Intersect_EEZ_IHO_v4_2020).
 
