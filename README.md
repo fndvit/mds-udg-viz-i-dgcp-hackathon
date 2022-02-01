@@ -8,7 +8,7 @@ This hackathon is a shared event between the Information Visualization and Data 
 
 **💡 What we want to solve:**
 
-We want to propose a **new climate-change metric**, **sea surface temperature anomalies**, based on **NASA's existing sea surface temperature data**, and use it as part of a country-by-country display of climate change statistics —the display will paint a picture of how we're affecting the climate, what's happening to it, and how we're addressing the climate emergency.
+We want to propose a **new climate change metric**, **sea surface temperature anomalies**, based on **NASA's existing sea surface temperature data**, and use it as part of a country-by-country display of climate change statistics —the display will paint a picture of how we're affecting the climate, what's happening to it, and how we're addressing the climate emergency.
 
 **🔍 Specifically ...**
 
