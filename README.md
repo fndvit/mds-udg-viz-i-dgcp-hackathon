@@ -144,7 +144,7 @@ Team koalas 🐨 is working on a way to identify significant clusters, you shoul
 **Deliverables:**
 
 * An algorithm to summarize statistics from team gerbils 🐹 input data
-* A well-reasoned method to break the data by country
+* One or more criteria to break the data by country
 * A detailed mockup with the visualization and the information, including hotspot annotations from team koalas 🐨
 
 ## Day-of schedule
