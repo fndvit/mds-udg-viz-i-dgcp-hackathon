@@ -149,7 +149,9 @@ Team koalas 🐨 is working on a way to identify significant clusters, you shoul
 
 ## Day-of schedule
 
-* 👋 **09:00** Welcome, reminder of logistics like lunch, drinks, communication channels ...
+The Hackathon takes place in the P-IV building, EPS UdG on February 12, 2022.
+
+* 👋 **09:00** Welcome, reminder of logistics like working rooms, lunch, drinks, communication channels ...
 * 🙋‍♀️ **09:15** Standup meeting with us. Objectives, processes, what you want to achieve in the hackathon and any questions.
 * 👩‍💻 **09:30** Start of work day!
 * 🙋‍♀️ **13:15** Short standup
