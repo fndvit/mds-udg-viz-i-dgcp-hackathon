@@ -30,6 +30,9 @@ We want to propose a **new climate change metric**, **sea surface temperature an
 
 **📅 Pre-hackathon stuff:**
 
+> **⚠ IMPORTANT NOTE:**  
+> **The entire group will collaborate on the same repo, so read the [Collaboration recommendations](#collaboration-recommendations) below.**
+
 * Read this repo in detail
 * Meet to discuss and distribute roles
 * Decide on the communication channels, management and documentation tools
