@@ -127,7 +127,7 @@ These clusters may serve multiple purposes, but the main is to function as a bas
 * Possible uses for the feature
 * Wireframes of an interface to display the hotspots for a researcher
 
-### 🎨 Country summaries
+### 🌍 Country summaries
 
 |**Team name:** badgers 🦡|
 |:------|
