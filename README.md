@@ -170,7 +170,7 @@ We will provide breakfast 🥐, lunch 🥪, snacks 🍌, coffee ☕ ... Bring yo
 
 ## Collaboration recommendations
 
-* Use folders and file names that are human-readable and let you identify the content, preferrably use lower case separated by dashes. For example: `areas-of-interest-getis-ord.py`
+* Use folders and file names that are human-readable and let you identify the content, preferably use lower case separated by dashes. For example: `areas-of-interest-getis-ord.py`
 * Follow the Branch Per Feature model: one feature, one branch.
 * Prepend each branch with your team name. For example if you're commiting part of your work cleaning up the data, you would push it to a `gerbils--data-cleaning` branch.
 * Use a consistent pattern for commit messages, a nice one is `type: subject` as in `refactor: use map instead of for loop`.
