@@ -151,7 +151,7 @@ Team koalas 🐨 is working on a way to identify significant clusters, you shoul
 
 The Hackathon takes place in the P-IV building, EPS UdG on February 12, 2022.
 
-We will provide breakfast 🥐, lunch 🥪, snacks 🍌, coffee ☕ ... Bring your own mug ☕!!
+We will provide breakfast 🥐, lunch 🥪, snacks 🍌, coffee ☕ ...
 
 * 👋 **09:00** Welcome, reminder of logistics like working rooms, lunch, drinks, communication channels ...
 * 🙋‍♀️ **09:15** Standup meeting. Objectives, processes, what you want to achieve in the hackathon and any questions.
