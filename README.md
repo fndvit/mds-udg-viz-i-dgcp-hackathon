@@ -107,7 +107,7 @@ If you map it, team badgers 🦡 may have some thoughts about the display.
 
 * An algorithm to transform new SST data into SST anomalies data
 * A proposal for an automated pipeline to retrieve new data, transform it, and output the anomalies map/data
-* A map showing the latest SST data that follows team badgers 🦡 design
+* A map showing the latest ~~SST data~~ SST anomalies data that follows team badgers 🦡 design
 
 ### 🤔 Areas of interest
 
