@@ -127,6 +127,8 @@ These clusters may serve multiple purposes, but the main is to function as a bas
 * Possible uses for the feature
 * Wireframes of an interface to display the hotspots for a researcher
 
+[📊 **FINAL PRESENTATION** 📊](https://observablehq.com/@u1953673/hackathon-gerbils)
+
 ### 🌍 Country summaries
 
 |**Team name:** badgers 🦡|
