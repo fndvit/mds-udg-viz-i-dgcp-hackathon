@@ -20,22 +20,11 @@ def tiff_to_csv(tiff_path, csv_path):
     pd.DataFrame(temp).to_csv('temp.csv')
 
 
-def csv
-cmap=LinearSegmentedColormap.from_list('rg',["blue", "w", "r"], N=256)
 
-t = np.array(pd.read_csv('./drive/MyDrive/HACKATTON/MYD28M_2021-11.CSV',header = None).replace(99999.0,0))
-t = t - avg['NOV']
-for i in range(1800):
-  for j in range(3600):
-    try:
-      t[i][j] = t[i][j]/sd['NOV'][i][j]
 
-    except:
-      None
-
-print('Standarized anomalies')
-plt.figure(figsize = (36,18))
-plt.imshow(t, cmap=cmap, interpolation='nearest')
-
-pd.DataFrame(t).to_csv('./Lastest_anomalies.csv')
-plt.savefig('./Lastest_anomalies.png')
+def csv_to_png(csv_path, png_path):
+    cmap=LinearSegmentedColormap.from_list('rg', ["blue", "w", "r"], N=256)
+    t = np.array(pd.read_csv(csv_path, header=None).replace(99999.0, 0))
+    plt.figure(figsize=(36,18))
+    plt.imshow(t, cmap=cmap, interpolation='nearest')
+    plt.savefig(png_path)
