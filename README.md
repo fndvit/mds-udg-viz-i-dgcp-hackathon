@@ -197,6 +197,12 @@ For the **Project Management** subject:
 
 The hackathon will count for **15% of the final mark for the subject**. (The final mark for the subject is then 30% project management and ethics + 30% group project + 25% guest lectures + 15% hackathon)
 
+Colleague evaluation forms:
+
+* [Team gerbils 🐹](https://forms.gle/2CtG9SdANQvmW4Pu5)
+* [Team koalas 🐨](https://forms.gle/2cPPYUCy3SZGRSM87)
+* [Team badgers 🦡](https://forms.gle/ih8DqxPHcb1VPXdP6)
+
 For the **Information Visualization** subject:
 
 * All attending students in the winning groups get +1 (if the popular vote coincides with the jury fav they get +2)
