@@ -179,6 +179,8 @@ We will provide breakfast 🥐, lunch 🥪, snacks 🍌, coffee ☕ ...
 
 As we all know the [professional jury and the popular vote don't always match](https://www.youtube.com/watch?v=4uGN9efcACw), so we're offering two awards: you all decide one via an open vote, we decide the other —which may or may not be the same, and we won't know until we reveal them simultaneously. There will be an international guest judge —hence the presentation must be in English.
 
+[**Popular vote here**](https://forms.gle/R38TN3wHGaYgXmix5)
+
 * 🏆 **Popular vote:** A copy of [Data sketches: A journey of imagination, exploration, and beautiful data visualizations](https://www.datasketch.es/) by Nadieh Bremer and Shirley Wu
 * 🏆 **Jury fav:** A copy of [Data Feminism (Strong Ideas)](https://datafeminism.io/) by Catherine D'Ignazio and Lauren F. Klein
 
